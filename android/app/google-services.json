@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "534175091732",
+    "project_id": "flutterlogin-ebbd5",
+    "storage_bucket": "flutterlogin-ebbd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534175091732:android:f14a64f052df6b4540ab01",
+        "android_client_info": {
+          "package_name": "com.example.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534175091732-k6fd40e8k1k494f99qnlc55t3u4ophp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqYw-EoO5h3vjBWZOtGhyBR5a0gQmDdDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534175091732-k6fd40e8k1k494f99qnlc55t3u4ophp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
